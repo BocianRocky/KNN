@@ -10,4 +10,4 @@ Usage:
    3. Input: Select the desired dataset and provide input parameters as required.
    4. Output: The program will classify the data or predict numerical values based on the k-NN algorithm.
 Notes:
-   - Optimize the choice of the parameter k (number of nearest neighbors) for better performance, using techniques like cross-validation.
+ - Optimize the choice of the parameter k (number of nearest neighbors) for better performance, using techniques like cross-validation.
